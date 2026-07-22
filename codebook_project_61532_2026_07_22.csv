@@ -1,0 +1,1019 @@
+Abschlussarbeit_Master
+
+Projekt-ID	61532
+URL der Umfrage	https://uc2456.customervoice360.com/uc/Team_Christina_Baron/f428/
+Datum	22.07.2026 19:35:26
+
+1 Seite: System (PGID 187985)
+
+
+3 Seite: Nutzung staatlicher digitaler Verwaltungsleistungen (PGID 188356)
+
+Wenn Sie die Wahl haben zwischen staatlichen digitalen Verwaltungsleistungen (z. B. Bürgerportal, Elster, Online-Ausweisfunktion) und analogen (papierbasierten oder vor Ort) Verfahren: Welche nutzen Sie eher? (q_330066 - Typ 111)
+v_25	v_25	int	Nutzung staatlicher digitaler Verwaltungsleistungen
+		1	Ich nutze mehr digitale Verfahren
+		2	Ich nutze mehr analoge Verfahren
+
+
+
+4 Seite: Ergänzungsfragen (PGID 188357)
+
+Warum nutzen Sie eher analoge Verfahren? (q_330067 - Typ 121)
+v_26	v_26	int	Grundsätzlich geringes Vertrauen in staatliche IT
+		0	not quoted
+		1	quoted
+v_27	v_27	int	Sorge vor langfristigen Folgen (z. B. dauerhafte Datenspeicherung)
+		0	not quoted
+		1	quoted
+v_28	v_28	int	Eigene Unsicherheit
+		0	not quoted
+		1	quoted
+v_29	v_29	int	Geringer persönlicher Nutzen
+		0	not quoted
+		1	quoted
+v_30	v_30	int	Ich erledige Verwaltungsangelengenheiten lieber persönlich (vor Ort oder telefonisch)
+		0	not quoted
+		1	quoted
+v_31	v_31	int	Sonstiges
+		0	not quoted
+		1	quoted
+v_32	v_32	varchar	Sonstiges
+
+
+Warum nutzen Sie eher staatliche digitale Angebote? (q_330068 - Typ 121)
+v_33	v_33	int	Zeitersparnis, da Behördengänge so schneller erledigt werden können
+		0	not quoted
+		1	quoted
+v_34	v_34	int	Bequemlichkeit
+		0	not quoted
+		1	quoted
+v_35	v_35	int	Vermeidung von Wartezeiten
+		0	not quoted
+		1	quoted
+v_36	v_36	int	Bessere Nachverfolgung des Bearbeitungsstandes
+		0	not quoted
+		1	quoted
+v_37	v_37	int	Leichtere Zugänglichkeit
+		0	not quoted
+		1	quoted
+v_38	v_38	int	Pflicht oder Notwendigkeit vorgeschriebener Verfahren
+		0	not quoted
+		1	quoted
+v_39	v_39	int	Umweltfreundlichkeit
+		0	not quoted
+		1	quoted
+v_40	v_40	int	Sonstiges
+		0	not quoted
+		1	quoted
+v_41	v_41	varchar	Sonstiges
+
+
+
+5 Seite: Nutzung privater Online-Plattformen (PGID 188358)
+
+Wie häufig nutzen Sie im Durchschnitt private Online-Plattformen (z. B. WhatsApp, Amazon, Temu, Facebook, Instagram)? (q_330069 - Typ 111)
+v_42	v_42	int	Nutzung privater Online-Plattformen
+		1	Nie
+		2	Selten
+		3	Gelegentlich
+		4	Häufig
+		5	Sehr häufig
+
+
+
+6 Seite: Ergänzungsfragen (PGID 188360)
+
+Warum nutzen Sie private Online-Plattfromen allgemein selten oder gar nicht? (q_330071 - Typ 121)
+v_43	v_43	int	Grundsätzlich geringes Vertrauen in private IT
+		0	not quoted
+		1	quoted
+v_44	v_44	int	Sorge vor langfristigen Folgen (z. B. dauerhafte Datenspeicherung)
+		0	not quoted
+		1	quoted
+v_45	v_45	int	Eigene Unsicherheit
+		0	not quoted
+		1	quoted
+v_46	v_46	int	Geringer persönlicher Nutzen
+		0	not quoted
+		1	quoted
+v_47	v_47	int	Ich vermeide digitale Kommunikation generell
+		0	not quoted
+		1	quoted
+v_48	v_48	int	Sonstiges
+		0	not quoted
+		1	quoted
+v_49	v_49	varchar	Sonstiges
+
+
+Warum nutzen Sie private Angebote im Allgemeinen? (q_330072 - Typ 121)
+v_50	v_50	int	Bequemlichkeit
+		0	not quoted
+		1	quoted
+v_51	v_51	int	Zeitersparnis
+		0	not quoted
+		1	quoted
+v_52	v_52	int	Vielfältigkeit
+		0	not quoted
+		1	quoted
+v_53	v_53	int	Personalisierung
+		0	not quoted
+		1	quoted
+v_54	v_54	int	Preisvorteile
+		0	not quoted
+		1	quoted
+v_55	v_55	int	Weil das soziale Umfeld diese Angebote auch nutzt
+		0	not quoted
+		1	quoted
+v_56	v_56	int	Flexibilität
+		0	not quoted
+		1	quoted
+v_57	v_57	int	Schnelligkeit
+		0	not quoted
+		1	quoted
+v_58	v_58	int	Sonstiges
+		0	not quoted
+		1	quoted
+v_59	v_59	varchar	Sonstiges
+
+
+
+7 Seite: Wichtigkeit digitaler Dienste (PGID 188361)
+
+Wie wichtig ist Ihnen das Angebot staatlicher digitaler Verwaltungsleistungen (q_330073 - Typ 111)
+v_60	v_60	int	Wichtigkeit staatlicher Dienste
+		1	völlig unwichtig
+		2	eher unwichtig
+		3	eher wichtig
+		4	wichtig
+		5	sehr wichtig
+
+
+Wie wichtig sind Ihnen private Online-Plattformen im Alltag? (q_330074 - Typ 111)
+v_61	v_61	int	Wichtigkeit privater Dienste
+		1	völlig unwichtig
+		2	eher unwichtig
+		3	eher wichtig
+		4	wichtig
+		5	sehr wichtig
+
+
+
+8 Seite: Nutzung ist wichtig (PGID 188827)
+
+
+8.1 Seite: Filterfrage (PGID 188362)
+
+Welche Aspekte sind Ihnen bei der Nutzung digitaler Dienste wichtig? (q_330075 - Typ 121)
+v_62	v_62	int	Datenschutz
+		0	not quoted
+		1	quoted
+v_63	v_63	int	Benutzerfreundlichkeit
+		0	not quoted
+		1	quoted
+v_64	v_64	int	Schnelligkeit
+		0	not quoted
+		1	quoted
+v_65	v_65	int	Vertrauen in den Anbieter
+		0	not quoted
+		1	quoted
+v_66	v_66	int	Wahrgenommener persönlicher Nutzen
+		0	not quoted
+		1	quoted
+v_67	v_67	int	Sonstiges
+		0	not quoted
+		1	quoted
+v_68	v_68	varchar	Sonstiges
+
+
+
+9 Seite: Grundvertrauen in digitale Angebote (PGID 188534)
+
+Für wie vertrauenswürdig halten Sie die folgenden Anbieter grundsätzlich?Private Unternehmen (q_330385 - Typ 111)
+v_69	v_69	int	Grundvertrauen in digitale Angebote
+		1	gar nicht vertrauenswürdig
+		2	eher nicht vertrauenswürdig
+		3	eher vertrauenswürdig
+		4	vertrauenswürdig
+		5	sehr vertrauenswürdig
+
+
+Staatliche Behörden und Verwaltungsportale (q_330386 - Typ 111)
+v_70	v_70	int	Grundvertrauen in digitale Angebote 2
+		1	gar nicht vertrauenswürdig
+		2	eher nicht vertrauenswürdig
+		3	eher vertrauenswürdig
+		4	vertrauenswürdig
+		5	sehr vertrauenswürdig
+
+
+
+10 Seite: Umgang mit Daten (PGID 188535)
+
+Wie sehr vertrauen Sie staatlichen Behörden im Umgang mit Ihren persönlichen Daten? (q_330388 - Typ 111)
+v_71	v_71	int	Umgang mit Daten
+		1	gar nicht
+		2	wenig
+		3	grundsätzlich
+		4	stark
+		5	sehr stark
+
+
+Wie sehr vertrauen Sie privaten Unternehmen im Ungang mit Ihren persönlichen Daten? (q_330390 - Typ 111)
+v_72	v_72	int	Umgang mit Daten2
+		1	gar nicht
+		2	wenig
+		3	grundsätzlich
+		4	stark
+		5	sehr stark
+
+
+
+11 Seite: Vergleichendes Vertrauen (PGID 188539)
+
+Bitte geben Sie an, inwieweit Sie den folgenden Aussagen zustimmen:Ich halte staatliche digitale Verwaltungsleistungen für sicherer als private Online-Plattformen (q_330395 - Typ 111)
+v_73	v_73	int	Vergleichdes Vertrauen
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Ich mache mir mehr Sorgen um Datenmissbrauch durch den Staat als durch private Unternehmen. (q_330399 - Typ 111)
+v_74	v_74	int	Vergleich 2
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Es ist wahrscheinlich, dass ich nach einem Sicherheitsvorfall das Vertrauen in staatliche Online-Dienste verliere. (q_330401 - Typ 111)
+v_75	v_75	int	Vergleich 3
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Es ist wahrscheinlich, dass ich nach einem Sicherheitsvorfall das Vertrauen in den betroffenen privaten Online-Dienst verliere. (q_330402 - Typ 111)
+v_76	v_76	int	Vergleich 4
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+
+12 Seite: Filter Vertrauensvergleich (PGID 188828)
+
+
+12.1 Seite: Kopie von Filter Vertrauensvergleich (PGID 188820)
+
+Was sind die wichtigsten Gründe dafür, dass Sie staatlichen und privaten Online-Diensten ein unterschiedlich starkes Vertrauen entgegenbringen? (q_331008 - Typ 111)
+v_218	v_218	int	Filter Vertrauensvergleich
+		1	Keine Angabe
+		6	Freitextfeld:
+v_219	v_219	varchar	Freitextfeld:
+
+
+
+13 Seite: Datenschutzbedenken und tatsächliche Datennutzung (PGID 188547)
+
+Ich habe große Datenschutzbedenken gegenüber der Verarbeitung meiner Daten... (q_330408 - Typ 111)
+v_79	v_79	int	Geäußerte Datenschutzbedenken
+		1	..durch staatliche Stellen
+		2	..durch private Unternehmen
+		4	..generell im Internet
+		5	Ich habe keine (großen) Datenschutzbedenken
+
+
+Haben Sie schon einmal aufgrund von Datenschutzbedenken bewusst darauf verzichtet....staatliche Online-Dienste zu nutzen? (q_330410 - Typ 111)
+v_80	v_80	int	Bedenken 2
+		1	Ja
+		2	Nein
+
+
+..private Online-Dienste zu nutzen? (q_330411 - Typ 111)
+v_81	v_81	int	Bedenken 3
+		1	Ja
+		2	Nein
+
+
+
+14 Seite: Wahrgenommenes Risiko digitaler Dienste (PGID 188549)
+
+Bitte geben Sie an, inwieweit Sie den folgenden Aussagen zustimmen:Ich nehme die Risiken der Datenverarbeitung durch private Plattformen als eher gering wahr. (q_330417 - Typ 111)
+v_82	v_82	int	Wahrgenommenes Risiko digitaler Dienste
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Ich nehme die Risiken der Datenverarbeitung durch staatliche Plattformen als eher gering wahr (q_330420 - Typ 111)
+v_83	v_83	int	Riisko 2
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+
+15 Seite: Wahrgenommener Nutzen digitaler Dienste (PGID 188550)
+
+Bitte geben Sie an, inwieweit Sie folgenden Aussagen zustimmen:Der Nutzen staatlicher digitaler Verwaltungsleisungen ist im Vergleich zu privaten Online-Plattformen gering, weil ich diese selten in Anspruch nehme. (q_330424 - Typ 111)
+v_84	v_84	int	Nutzen 1
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Ich habe das Gefühl, ohne private Online-Plattformen im Alltag deutlich eingeschränkt zu sein. (q_330425 - Typ 111)
+v_85	v_85	int	Nutzen 2
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Private Online-Plattformen bieten mir einen so hohen Nutzen, dass ich bereit bin dafür Daten preiszugeben. (q_330426 - Typ 111)
+v_86	v_86	int	Nutzen 3
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+
+16 Seite: Filter Nutzen (PGID 188829)
+
+
+16.1 Seite: Filter Nutzen (PGID 188552)
+
+Welche Daten geben Sie privaten Online-Plattformen preis? (q_330432 - Typ 121)
+v_91	v_91	int	Klarnamen (auch in Bezug auf Onlineshops)
+		0	not quoted
+		1	quoted
+v_92	v_92	int	Adresse (auch in Bezug auf Onlineshops)
+		0	not quoted
+		1	quoted
+v_93	v_93	int	Telefonnummer
+		0	not quoted
+		1	quoted
+v_94	v_94	int	Zahlungsdaten (Kreditkarte, Bankverbindung, PayPal)
+		0	not quoted
+		1	quoted
+v_95	v_95	int	Gesundheitsbezogene Informationen (Fitness-Apps, Gesundheits-Tracker)
+		0	not quoted
+		1	quoted
+v_96	v_96	int	Standortdaten (GPS, Check-Ins)
+		0	not quoted
+		1	quoted
+v_97	v_97	int	Private Fotos (soziale Netzwerke, WhatsApp-Status)
+		0	not quoted
+		1	quoted
+v_98	v_98	int	Persönliche Geschichten oder Ansichten (soziale Netzwerke, WhatsApp-Status)
+		0	not quoted
+		1	quoted
+v_99	v_99	int	Sonstiges
+		0	not quoted
+		1	quoted
+v_100	v_100	varchar	Sonstiges
+
+
+
+17 Seite: Vergleich zur Datenpreisgabe an staatliche Stellen (PGID 188553)
+
+Bitte geben Sie an, inwieweit Sie folgenden Aussagen zustimmen:Ich bin bei der Datenweitergabe an staatliche Stellen zurückhaltender als bei privaten Plattformen. (q_330433 - Typ 111)
+v_101	v_101	int	Datenpreisgabe 1
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Obwohl ich privaten Anbietern weniger vertraue, gebe ich dort trotzdem mehr Daten preis als bei staatlichen Anbietern. (q_330435 - Typ 111)
+v_102	v_102	int	Datenpreisgabe 2
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+
+18 Seite: Filter Datenpreisgabe (PGID 188831)
+
+
+18.1 Seite: Filter Datenpreisgabe (PGID 188557)
+
+Warum geben Sie privaten Plattformen eher Daten preis? (q_330436 - Typ 121)
+v_103	v_103	int	Höherer wahrgenommener Nutzen
+		0	not quoted
+		1	quoted
+v_104	v_104	int	Geringere wahrgenommene Risiken
+		0	not quoted
+		1	quoted
+v_105	v_105	int	Bequemlichkeit
+		0	not quoted
+		1	quoted
+v_106	v_106	int	"Alle machen es"
+		0	not quoted
+		1	quoted
+v_107	v_107	int	"Ich habe nichts zu verbergen"
+		0	not quoted
+		1	quoted
+v_108	v_108	int	Ich habe mich an die Nutzung privater Dienste gewöhnt
+		0	not quoted
+		1	quoted
+v_109	v_109	int	Vertrauen in technische Kompetenz privater Anbieter
+		0	not quoted
+		1	quoted
+v_110	v_110	int	Ich gebe privaten Plattformen keine sensiblen Daten preis
+		0	not quoted
+		1	quoted
+v_111	v_111	int	Ich empflinde staatliche digitale Angebote als kompliziert
+		0	not quoted
+		1	quoted
+v_112	v_112	int	Sonstiges
+		0	not quoted
+		1	quoted
+v_113	v_113	varchar	Sonstiges
+
+
+
+19 Seite: Bisherige Erfahrungen mit Sicherheitsvorfällen (PGID 188558)
+
+Haben Sie in den letzen 12 Monaten von einem Sicherheitsvorfall (z. B. Datenleck, Hackerangriff) gehört bei....staatlichen digitalen Angeboten (q_330437 - Typ 111)
+v_114	v_114	int	letzte 12 Monate Staat
+		1	Ja
+		2	Nein
+
+
+..privaten Online-Plattformen (q_330438 - Typ 111)
+v_115	v_115	int	letzte 12 Monate Privat
+		1	Ja
+		2	Nein
+
+
+
+20 Seite: Eigene Erahrungen privat (PGID 188559)
+
+Ich war (nach eigener Einschätzung) schon einmal von einem Sicherheitsvorfall bei einer privaten Online-Plattform betroffen. (q_330439 - Typ 111)
+v_116	v_116	int	Eigene Erfahrungen
+		1	Ja
+		2	Vermutlich Ja
+		3	Vermutlich Nein
+		4	Nein
+		5	Weiß ich nicht
+
+
+Ich war (nach eigener Einschätzung) schon einmal von einem Sicherheitsvorfall bei einer staatlichen digitalen Verwaltungsleistung betroffen. (q_330440 - Typ 111)
+v_117	v_117	int	Eigene Erfahrungen 2
+		1	Ja
+		2	Vermutlich Ja
+		3	Vermutlich Nein
+		4	Nein
+		5	Weiß ich nicht
+
+
+
+20.1 Seite: Filter eigene Erfahrung (PGID 188832)
+
+
+20.1.1 Seite: Filter eigene Erfahrung (PGID 188560)
+
+Wie gut können Sie einschätzen, ob Ihre persönlichen Daten betroffen waren? (q_330441 - Typ 111)
+v_118	v_118	int	Betroffen
+		1	Gar nicht
+		2	Eher schlecht
+		3	Unsicher
+		4	Gut
+		5	Sehr gut
+
+
+Wie gut verstehen Sie die offiziellen Meldungen (z. B. Veröffentlichungen auf Webseiten, Presseberichte) zu Sicherheitsvorfällen? (q_330442 - Typ 111)
+v_119	v_119	int	Betroffen 2
+		1	Gar nicht
+		2	Eher schlecht
+		3	Unsicher
+		4	Gut
+		5	Sehr gut
+
+
+Haben Sie nach dem Sicherheitsvorfall Ihr Nutzungsverhalten verändert? (q_330443 - Typ 111)
+v_120	v_120	int	Betroffen 3
+		1	Nicht verändert
+		2	Keine Angabe
+		6	Freitextfeld:
+v_121	v_121	varchar	Freitextfeld:
+
+
+
+20.2 Seite: Filter eigene Erfahrung 2 (PGID 188834)
+
+
+20.2.1 Seite: Filter Vermutlich (PGID 188835)
+
+Was erschwert es Ihnen einzuschätzen, ob Ihre Daten betroffen waren? (q_330444 - Typ 121)
+v_122	v_122	int	Unklare oder technische Sprache in Mitteilungen
+		0	not quoted
+		1	quoted
+v_123	v_123	int	Fehlende Informationen durch den Anbieter
+		0	not quoted
+		1	quoted
+v_124	v_124	int	Zu viele widersprüchliche Medienberichte
+		0	not quoted
+		1	quoted
+v_125	v_125	int	Ich weiß nicht worauf ich achten müsste
+		0	not quoted
+		1	quoted
+v_127	v_127	int	Sonstiges
+		0	not quoted
+		1	quoted
+v_128	v_128	varchar	Sonstiges
+
+
+
+21 Seite: Reaktion auf Sicherheitsvorfälle und Nutzungsverhalten  (PGID 188563)
+
+In welchem Bereich wären Sie nach einem Sicherheitsvorfall eher bereit, den Dienst weiter zu nutzen? (q_330448 - Typ 111)
+v_129	v_129	int	Konkrete Verhaltensabsicht
+		1	Private Online-Plattform
+		2	Staatliche Online-Dienste
+		3	Beide gleichermaßen
+		4	Keine von beiden
+
+
+Bitte geben Sie an, inwieweit Sie folgenden Aussagen zustimmen:Nach einem Sicherheitsvorfall bei einer staatlichen digitalen Verwaltungsleistung würde ich wieder stärker auf analoge Verfahren (Papier, vor Ort) ausweichen. (q_330450 - Typ 111)
+v_130	v_130	int	Konkrete Verhaltensabsicht 2
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Nach einem Sicherheitsvorfall bei einer privaten Online-Plattform würde ich höchstens kleinere Anpassungen (z. B. Passwort ändern) vornehmen, aber die Plattform weiter nutzen. (q_330451 - Typ 111)
+v_131	v_131	int	Konkrete Verhaltensabsicht 3
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Sicherheitsvorfälle bei privaten Plattformen führen bei mir selten zu einem dauerhaften Nutzungsstopp. (q_330452 - Typ 111)
+v_132	v_132	int	Konkrete Verhaltensabsicht 4
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+
+22 Seite: Hypothetische Reaktion auf Vorfälle (PGID 188565)
+
+Stellen Sie sich vor, es wird ein größerer Sicherheitsvorfall bekannt. Wie würden Sie ihr eigenes Verhalten der Nutzung nach dem Vorfall einschätzen bei....staatlichen digitalen Angeboten? (q_330453 - Typ 111)
+v_133	v_133	int	Reaktion Staat
+		1	Unverändert
+		2	Ich würde die Nutzung hinterfragen
+		3	Ich würde den Dienst vorsichtiger Nutzen
+		4	Ich würde die Nutzung (stark) einschränken
+		5	Ich würde den Dienst nicht mehr nutzen
+
+
+..privaten Online-Plattformen? (q_330455 - Typ 111)
+v_134	v_134	int	Reaktion Privat
+		1	Unverändert
+		2	Ich würde die Nutzung hinterfragen
+		3	Ich würde den Dienst vorsichtiger Nutzen
+		4	Ich würde die Nutzung (stark) einschränken
+		5	Ich würde den Dienst nicht mehr nutzen
+
+
+
+22.1 Seite: Filter Reaktion Staat (PGID 188838)
+
+
+22.1.1 Seite: Filter Reaktion 2 (PGID 188840)
+
+Warum wären Sie bei staatlichen Online-Diensten nach einem Sicherheitsvorfall zurückhaltend? (q_330531 - Typ 121)
+v_135	v_135	int	Sorge vor Missbrauch besonders sensibler Daten
+		0	not quoted
+		1	quoted
+v_136	v_136	int	Grundsätzlich geringes Vertrauen in staatliche IT-Sicherheit
+		0	not quoted
+		1	quoted
+v_137	v_137	int	Angst vor langfristigen Folgen (z. B. Identitätsdiebstahl)
+		0	not quoted
+		1	quoted
+v_138	v_138	int	Gefühl mangelnder Transparenz bei Behörden
+		0	not quoted
+		1	quoted
+v_139	v_139	int	Negative Medienberichte über staatliche IT
+		0	not quoted
+		1	quoted
+v_140	v_140	int	Grundsätzliches Misstrauen gegenüber staatlichen Institutionen
+		0	not quoted
+		1	quoted
+v_141	v_141	int	Sonstiges
+		0	not quoted
+		1	quoted
+v_142	v_142	varchar	Sonstiges
+
+
+
+22.2 Seite: Filter Reaktion Privat (PGID 188839)
+
+
+22.2.1 Seite: Filter Reaktion (PGID 188568)
+
+Warum würden Sie private Online-Dienste nach einem Sicherheitsvorfall eher weiter nutzen? (q_330537 - Typ 121)
+v_143	v_143	int	Ich bin auf die Dienste angewiesen (z. B. Kommunikation, Arbeit, soziale Kontakte)
+		0	not quoted
+		1	quoted
+v_144	v_144	int	Hoher persönlicher Nutzen
+		0	not quoted
+		1	quoted
+v_145	v_145	int	Es gibt kaum Alternativen
+		0	not quoted
+		1	quoted
+v_146	v_146	int	Sicherheitsvorfälle sind bei privaten Diensten "normal"
+		0	not quoted
+		1	quoted
+v_147	v_147	int	Ich vertraue darauf, dass private Anbieter schnell reagieren
+		0	not quoted
+		1	quoted
+v_148	v_148	int	Der Nutzen überwiegt möglichen Risiken
+		0	not quoted
+		1	quoted
+v_149	v_149	int	Sonstiges
+		0	not quoted
+		1	quoted
+v_150	v_150	varchar	Sonstiges
+
+
+
+23 Seite: Ausbleibende Reaktion (PGID 188605)
+
+Stellen Sie sich vor, ein weit verbreiteter Messenger-Dienst (z. B. WhatsApp) wird mehrfach auf eine bekannte Sicherheitslücke hingewiesen, reagiert aber über längere Zeit nicht oder nur unzureichend darauf.Geben Sie bitte an, inwieweit Sie folgenden Aussagen zustimmen:In einem solchen Fall würde mein Vertrauen in diesen Dienst stark sinken. (q_330538 - Typ 111)
+v_151	v_151	int	Ausbleibende Reaktion
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Ich würde ernsthaft darüber nachdenken, zu einem anderen Messenger-Dienst zu wechseln. (q_330540 - Typ 111)
+v_152	v_152	int	Ausbleibende Reaktion 2
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Auch wenn ich Bedenken hätte, würde ich den Dienst wahrscheinlich weiterhin nutzen, weil er für mich praktisch ist. (q_330541 - Typ 111)
+v_153	v_153	int	Ausbleibende Reaktion 3
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Dass ein Anbieter auf Sicherheitslücken schnell reagiert, ist für mein Vertrauen wichtiger als die absolute Abwesenheit von Sicherheitslücken. (q_330542 - Typ 111)
+v_154	v_154	int	Ausbleibende Reaktion 4
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+
+24 Seite: Bedeutung Fehlalarm (PGID 188606)
+
+Stellen Sie sich vor, dass sich ein Verdacht auf einen Sicherheritsvorfall als Fehlalarm herausstellt. Geben Sie bitte an, inwieweit Sie folgenden Aussagen zustimmen:Es macht für mein Vertrauen einen großen Unterschied, ob ein Sicherheitsvorfall vorliegt (z. B. ein bestätigter Datenabfluss) oder es ein Fehlalarm war. (q_330543 - Typ 111)
+v_155	v_155	int	Bedeutung Fehlalarm
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Wenn sich ein Vorfall als Fehlalarm herausstellt, kann mein Vertrauen wiederhergestellt werden. (q_330544 - Typ 111)
+v_156	v_156	int	Bedeutung Fehlalarm 2
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Schon der Verdacht auf einen Sicherheitsvorfall reicht aus, um mein Vertrauen dauerhaft zu beeinträchtigen. (q_330545 - Typ 111)
+v_157	v_157	int	Bedeutung Fehlalarm 3
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+
+25 Seite: Einschätzung des eigenen Informationsstandes (PGID 188607)
+
+Wie gut verstehen Sie technische Begriffe wie "Datenleck", "Ransomware" oder "Verschlüsselung"? (q_330546 - Typ 111)
+v_158	v_158	int	Begriffsverständnis
+		1	Gar nicht
+		2	Eher nicht
+		3	Teilweise
+		4	Gut
+		5	Sehr gut
+
+
+
+26 Seite: Digitale Kompetenz (PGID 188610)
+
+Bitte geben Sie an, inwieweit Sie den folgenden Aussagen zustimmen:Ich kann gut einschätzen, welche Online-Dienste sicher sind und welche nicht. (q_330550 - Typ 111)
+v_167	v_167	int	Selbstwirksamkeit
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Ich weiß, wie ich meine Konten und Daten online schützen kann (z. B. starke Passwörter, Zwei-Faktor-Authentifizierung) (q_330551 - Typ 111)
+v_168	v_168	int	Selbstwirksamkeit 2
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Ich fühle mich in der Lage, nach einem Sicherheitsvorfall angemessen zu reagieren (z. B. Passwörter ändern, Einstellungen prüfen) (q_330552 - Typ 111)
+v_169	v_169	int	Selbstwirksamkeit 3
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Meine eigene Unsicherheit in Bezug auf Datensicherheit und -verarbeitung schränkt mein Vertrauen in digitale Angebote ein (q_330553 - Typ 111)
+v_170	v_170	int	Selbstwirksamkeit 4
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+
+26.1 Seite: FIlter Selbstwirksamkeit (PGID 188841)
+
+
+26.1.1 Seite: FIlter Selbstwirksamkeit (PGID 188612)
+
+Welche Online-Dienste halten Sie für (eher) sicher? (q_330555 - Typ 121)
+v_171	v_171	int	Gmail
+		0	not quoted
+		1	quoted
+v_172	v_172	int	OneDrive/iCloud
+		0	not quoted
+		1	quoted
+v_173	v_173	int	LinkedIn
+		0	not quoted
+		1	quoted
+v_174	v_174	int	Instagram
+		0	not quoted
+		1	quoted
+v_175	v_175	int	Signal
+		0	not quoted
+		1	quoted
+v_176	v_176	int	WhatsApp
+		0	not quoted
+		1	quoted
+v_177	v_177	int	Amazon
+		0	not quoted
+		1	quoted
+v_178	v_178	int	Temu
+		0	not quoted
+		1	quoted
+v_179	v_179	int	Elster
+		0	not quoted
+		1	quoted
+v_180	v_180	int	BundID (z. B. für die Beantragung von BAföG, Elterngeld, Führungszeugnissen)
+		0	not quoted
+		1	quoted
+v_181	v_181	int	Online-Ausweis
+		0	not quoted
+		1	quoted
+v_182	v_182	int	Keine der genannten
+		0	not quoted
+		1	quoted
+
+
+
+27 Seite: Rolle der Kommunikation (PGID 188614)
+
+Wie wichtig ist bzw. wäre Ihnen transparente Kommunikation nach einem Sicherheitsvorfall? (q_330557 - Typ 111)
+v_183	v_183	int	Grundlegende Rolle
+		1	Unwichtig
+		2	Eher unwichtig
+		3	Eher wichtig
+		4	Wichtig
+		5	Sehr wichtig
+
+
+
+28 Seite: Transparente Kommunikation (PGID 188617)
+
+Bitte geben Sie an, inwieweit Sie den folgenden Aussagen zustimmen:Offene und verständliche Informationen über Sicherheitsvorfälle würden mein Vertrauen stärken. (q_330564 - Typ 111)
+v_186	v_186	int	Transparenz
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Transparente Informationen über getroffene Sicherheitsmaßnahmen erhöhen mein Vertrauen. (q_330568 - Typ 111)
+v_187	v_187	int	Transparenz 2
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+Ich wünsche mir klare Erklärungen, was mit meinen Daten passiert, wenn ein Sicherheitsvorfall auftritt. (q_330570 - Typ 111)
+v_188	v_188	int	Transparenz 3
+		1	Stimme nicht zu
+		2	Stimme eher nicht zu
+		3	Stimme eher zu
+		4	Stimme zu
+		5	Stimme voll zu
+
+
+
+28.1 Seite: Filter Transparenz (PGID 188842)
+
+
+28.1.1 Seite: Filter transparente Kommunikation (PGID 188618)
+
+Welche Informationen benötigen Sie, um einschätzen zu können, ob Ihre eigenen Daten von einem Sicherheitsvorfall betroffen sind? (q_330571 - Typ 121)
+v_189	v_189	int	Verständliche Zusammenfassung, was genau passiert ist
+		0	not quoted
+		1	quoted
+v_190	v_190	int	Konkrete Angabe, welche Datenarten (möglicherweise) betroffen sind
+		0	not quoted
+		1	quoted
+v_191	v_191	int	Individuelle Benachrichtigung, falls meine Daten betroffen sein könnten
+		0	not quoted
+		1	quoted
+v_192	v_192	int	Schritt-für-Schritt-Anleitung, was ich jetzt tun sollte
+		0	not quoted
+		1	quoted
+v_193	v_193	int	Einschätzung möglicher Auswirkungen auf meine persönliche Situation
+		0	not quoted
+		1	quoted
+v_194	v_194	int	Sonstiges
+		0	not quoted
+		1	quoted
+v_195	v_195	varchar	Sonstiges
+
+
+
+28.2 Seite: Filter Transparenz 2 (PGID 188843)
+
+
+28.2.1 Seite: Filter transparente Kommunikation 2 (PGID 188845)
+
+Welche Maßnahmen würden Ihr Vertrauen in staatliche digitale Angebote stärken?Regelmäßige Sicherheitsberichte (q_330573 - Typ 111)
+v_196	v_196	int	Filter Transparenz 2.1
+		1	Gar nicht
+		2	Eher nicht
+		3	Eher schon
+		4	Ja
+		5	Auf jeden Fall
+
+
+Verständliche Erklärungen zum Datenschutz (q_330575 - Typ 111)
+v_197	v_197	int	Filter Transparenz 2.2
+		1	Gar nicht
+		2	Eher nicht
+		3	Eher schon
+		4	Ja
+		5	Auf jeden Fall
+
+
+Informationsveranstaltungen zur Stärkung digitaler Kompetenzen (q_330577 - Typ 111)
+v_198	v_198	int	Filter Transparenz 2.3
+		1	Gar nicht
+		2	Eher nicht
+		3	Eher schon
+		4	Ja
+		5	Auf jeden Fall
+
+
+
+28.3 Seite: Filter Transparenz 3 (PGID 188844)
+
+
+28.3.1 Seite: Filter transparente Kommunikation 3 (PGID 188846)
+
+Welche Art der Kommunikation würde Ihr Vertrauen in staatliche Stellen nach einem Sicherheitsvorfall stärken? (q_330578 - Typ 121)
+v_199	v_199	int	Schnelle Erstinformation über den Vorfall
+		0	not quoted
+		1	quoted
+v_200	v_200	int	Transparente Darstellung der Ursachen
+		0	not quoted
+		1	quoted
+v_201	v_201	int	Eine Risikobewertung
+		0	not quoted
+		1	quoted
+v_202	v_202	int	Offenlegung eines konkreten Maßnahmenplans zur Behebung
+		0	not quoted
+		1	quoted
+v_203	v_203	int	Bestätigung durch unabhängige Sicherheitsprüfungen
+		0	not quoted
+		1	quoted
+v_204	v_204	int	Sonstiges
+		0	not quoted
+		1	quoted
+v_205	v_205	varchar	Sonstiges
+v_206	v_206	int	Keine der genannten Optionen
+		0	not quoted
+		1	quoted
+
+
+
+29 Seite: Soziodemografische An (PGID 188620)
+
+Den Abschluss dieser Umfrage bilden soziodemografische Angaben:Wie alt sind Sie? (q_330579 - Typ 111)
+v_207	v_207	int	Alter
+		1	unter 18
+		2	18 - 24
+		3	25 - 34
+		4	35 - 44
+		5	45 - 54
+		6	55 - 64
+		7	65 - 75
+		8	über 75
+
+
+Welchem Geschlecht fühlen Sie sich zugehörig? (q_330580 - Typ 111)
+v_208	v_208	int	Geschlecht
+		1	Weiblich
+		2	Männlich
+		3	Divers
+		4	Keine Angabe
+
+
+Welchen höchsten Bildungsabschluss haben Sie? (q_330581 - Typ 111)
+v_209	v_209	int	Bildungsabschluss
+		1	Keinen Schulabschluss
+		2	Hauptschulabschluss
+		3	Realschulabschluss
+		4	(Fach-)Abitur
+		5	Berufsausbildung
+		6	Hochschulabschluss (Bachelor/Master/Diplom/Staatsexamen)
+		7	Promotion oder höher
+
+
+Wie ist Ihre derzeitige berufliche Situation? (q_330582 - Typ 111)
+v_210	v_210	int	Berufliche Situation
+		1	In Vollzeit beschäftigt
+		2	In Teilzeit beschäftigt
+		3	In Ausbildung/Studium
+		4	Arbeitssuchend
+		5	Im Ruhestand
+		6	Sonstiges
+
+
+Wie schätzen Sie Ihre allgemeine digitale Kompetenz ein? (q_330583 - Typ 111)
+v_211	v_211	int	Selbsteinschätzung digitaler Kompetenz
+		1	Sehr gering
+		2	Eher gering
+		3	Moderat
+		4	Hoch
+		5	Sehr hoch
+
+
