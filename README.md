@@ -14,5 +14,5 @@ Dieses Repository enthält die Rohdaten und das Codebuch der Umfrage, die im Jah
 Die Umfrage wurde als standardisierte Online-Erhebung durchgeführt. Das Codebuch dokumentiert alle Variablen, Skalenniveaus und Kodierungen, die zum Lesen der CSV-Datei benötigt werden. Die XLSX-Datei kann ohne Codebuch gelesen werden.
 
 ## Lizenz
-Die Daten stehen unter der Lizenz **DL-DE BY 4.0**.  
+Die Daten stehen unter der Lizenz **DL-DE BY 2.0**.  
 Eine Nutzung ist frei möglich, sofern der Datensatz angemessen zitiert wird.
