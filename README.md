@@ -5,8 +5,8 @@
 Dieses Repository enthält die Rohdaten und das Codebuch der Umfrage, die im Jahr 2026 erhoben wurde. Ziel der Erhebung war es, Einstellungen, Nutzungsverhalten und Sicherheitswahrnehmungen zu staatlichen und privaten digitalen Diensten im Kontext von Sicherheitsvorfällen zu analysieren.
 
 ## Inhalt des Repositories
-- **/data_project/** – Rohdaten im CSV- und XLSX-Format  
-- **/codebook/** – Codebuch mit Variablenbeschreibung  
+- **data_project** – Rohdaten im CSV- und XLSX-Format  
+- **codebook** – Codebuch mit Variablenbeschreibung  
 - **README.md** – Projektbeschreibung und Nutzungshinweise  
 - **LICENSE** – Lizenztext für die Nutzung der Daten
 
